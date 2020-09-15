@@ -1,5 +1,4 @@
 username = input("Enter username:")
 print("Username is: " + username)
 
-#Project, create a form using inputs from the 
-#user (google for example)
+#Try other examples for fun. Create a questionaire or form to be filled. Plenty of project ideas with this one.

@@ -1,5 +1,5 @@
-## Python Basics
-### 'Basic introduction to....'
+# Python Basics
+### Basic introduction to....
 
 - python classes, 
 - objects, 

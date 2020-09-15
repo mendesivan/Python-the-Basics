@@ -9,4 +9,3 @@ mytripler = myfunc(3)
 print(mydoubler(11))
 print(mytripler(11))
 
-#dont understand what this is doing.

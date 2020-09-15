@@ -5,7 +5,8 @@
 - objects, 
 - modules, 
 - iterators, 
-- dates, 
+- dates,
+- string formating,
 - exceptions, 
 - user input, 
 - RegEx, etc.

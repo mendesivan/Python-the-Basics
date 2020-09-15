@@ -11,5 +11,4 @@ y = datetime.datetime(2020, 5, 3)
 print(y.strftime("%B")) #returns month
 
 
-# visit https://www.w3schools.com/python/python_datetime.asp
-# or more formatting codes
+# visit https://www.w3schools.com/python/python_datetime.asp for more formatting codes.
